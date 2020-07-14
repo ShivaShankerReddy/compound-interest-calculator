@@ -39,7 +39,7 @@ class Compound_interest:
 
         for quarterly n = 4(12/3)
             monthly n = 12
-            semi-annualy n = 2(12/5)
+            semi-annualy n = 2(12/6)
             daily n= 365
 
         formula: A = P * (1 + r/n)^n*t

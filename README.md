@@ -20,5 +20,5 @@ compound interest calculation
     return final amount as per frequencies
     - quarterly (freq) = 4 (12/3)
     - monthly (freq) = 12
-    - semi-annualy (freq) = 2(12/5)
+    - semi-annualy (freq) = 2(12/6)
     - daily (freq) = 365
